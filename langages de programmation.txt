@@ -1,3 +1,4 @@
 -langage de programmation
--langage de requetage sql+wquery
+-langage de requetage sql+xquery
 -langage descriptive
+-
