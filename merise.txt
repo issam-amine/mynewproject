@@ -1,0 +1,8 @@
+-many to many(0,n)(0,n)
+-Maitre-esclave(x,n)(x,1)
+-
+Model conceptuel de Données:
+-Entites:ensemble d'information de mm type
+-Rectangle:divise en deux libellé
+-les relations:lien entre deux entites "verbe"
+Model logique de Données:

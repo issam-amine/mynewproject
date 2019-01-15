@@ -1,0 +1,3 @@
+oui, soit vous gérez l'ajout d'une potion avec ses ingrédients
+- soit l'ajout d'un vendeur, avec ses photos
+je te remercie pour la correction !
